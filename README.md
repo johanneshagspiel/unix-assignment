@@ -1,7 +1,7 @@
 <img src=resources/bash_logo.png alt="Bash Logo" width="256" height="108">
 
 --------------------------------------------------------------------------------
-[![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/johanneshagspiel/unix-assignment/LICENSE.md)
+[![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Top Language](https://img.shields.io/github/languages/top/johanneshagspiel/unix-scripts)](https://github.com/johanneshagspiel/unix-scripts)
 [![Latest Release](https://img.shields.io/github/v/release/johanneshagspiel/unix-scripts)](https://github.com/johanneshagspiel/unix-scripts/releases/)
 
