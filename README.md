@@ -2,8 +2,8 @@
 
 --------------------------------------------------------------------------------
 [![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/johanneshagspiel/unix-assignment/LICENSE.md)
-[![Top Language](https://img.shields.io/github/languages/top/johanneshagspiel/unix-assignment)](https://github.com/johanneshagspiel/unix-assignment)
-[![Latest Release](https://img.shields.io/github/v/release/johanneshagspiel/unix-assignment)](https://github.com/johanneshagspiel/unix-assignment/releases/)
+[![Top Language](https://img.shields.io/github/languages/top/johanneshagspiel/unix-scripts)](https://github.com/johanneshagspiel/unix-scripts)
+[![Latest Release](https://img.shields.io/github/v/release/johanneshagspiel/unix-scripts)](https://github.com/johanneshagspiel/unix-scripts/releases/)
 
 # Unix Scripts
 
