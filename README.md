@@ -7,7 +7,7 @@
 
 # Unix Scripts
 
-This repository contains a number of bash scripts used to get familiar with the basics of a unix based system as well as shell scripting.  
+This repository contains a collection of bash scripts used to get familiar with the basics of a unix based system as well as shell scripting.  
 
 ## Features
 
@@ -30,7 +30,7 @@ These scripts cover a range of topics such as:
 It is assumed that the users operating system is Windows. 
 
 - Download and install [Windows Subsystem for Linux (WSL)](https://docs.microsoft.com/en-us/windows/wsl/install-win10) preferably with the Ubuntu 18.04 LTS distribution.
-- To run the shell scripts, start WSL, move into the directory of this repository and execute the scripts with ./{name_of_script.sh}
+- To run the shell scripts, start WSL, move into the directory of this repository and execute the scripts with ./{name_of_script}.sh
 
 ## Contributors
 
