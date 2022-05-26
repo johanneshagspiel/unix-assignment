@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # ---- MY AMAZING BOOK ----
-cd ./../data/myBook/ || exit
+cd ./../resources/data/myBook/ || exit
 
 # -- Q1 --
 echo "-- Q1 --"

@@ -2,7 +2,7 @@
 echo "Running logParsing.sh"
 
 # ---- APACHE ----
-cd ./../data/apacheLog || exit
+cd ./../resources/data/apacheLog || exit
 
 # -- Q1 --
 echo "-- Q1 --"

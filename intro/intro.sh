@@ -8,7 +8,7 @@ echo "Running intro.sh"
 
 # The command cd (change directory) can be used to change the current direcory.
 # Update the cd command below to make sure that the rest of this script is executed in the apacheLog folder that is inside of the data folder.
-cd ../data/apacheLog || exit
+cd ../resources/data/apacheLog || exit
 # The '||' on this line is like a or. If the left part gives an exit code of non-zero (error/false) the right part is evaluated.
 # We also have the '&&' sign. this only evaluates the right part if the left part has a zero exit code (no error/true).
 echo "Moved from intro to the data->apacheLog folder"

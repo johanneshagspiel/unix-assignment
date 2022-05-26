@@ -1,47 +1,44 @@
-<img src=resources/bash_logo.png alt="Bash Logo" width="320" height="135">
+<img src=resources/bash_logo.png alt="Bash Logo" width="256" height="108">
 
 --------------------------------------------------------------------------------
 [![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/johanneshagspiel/unix-assignment/LICENSE.md)
 [![Top Language](https://img.shields.io/github/languages/top/johanneshagspiel/unix-assignment)](https://github.com/johanneshagspiel/unix-assignment)
 [![Latest Release](https://img.shields.io/github/v/release/johanneshagspiel/unix-assignment)](https://github.com/johanneshagspiel/unix-assignment/releases/)
 
-# Unix Assignment
+# Unix Scripts
 
-This repository contains a full raytracer that was created in C++ and uses [Tucano](https://www.lcg.ufrj.br/tucano/) as a OpenGL wrapper to create from a virtual scene a static image. 
+This repository contains a number of shell scripts used to get familiar with the basics of a unix based system as well as bash scripting.  
 
 ## Features
 
-This full raytracer:
+These scripts cover a range of topics such as:
 
-- performs ray intersections with planes, triangles, and bounding boxes.
-- computates shading at the first impact point (diffuse and specular).
-- performs recursive raytracing for re ections to simulate specular materials.
-- calculates hard shadows from a point light.
-- calculates soft shadows from a spherical light centered at a point light.
-- has a simple acceleration structure.
+- fundamental operations with a unix file system including moving between directories or interacting with files via ls, find, sort or head
+- foundational concepts of shell scripting such as variables, pipelines and console printing
+- some of the most common bash commands such as cut, grep, sed, awk and xargs
 
 ## Tools
 
-| Purpose                | Name                                      |
-|------------------------|-------------------------------------------|
-| Programming language   | Shell                                     |
+| Purpose              | Name                                                                                             |
+|----------------------|--------------------------------------------------------------------------------------------------|
+| Programming language | Shell                                                                                            |
+| Unix system          | [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install) with Ubuntu |
+| Shell                | [Bash](https://www.gnu.org/software/bash/)                                                       |
 
 ## Installation Process
 
-It is assumed that the users is using Windows. 
+It is assumed that the users operating system is Windows. 
 
-- Download and install [Linux on Windows](https://docs.microsoft.com/en-us/windows/wsl/install-win10) preferably with the Ubuntu 18.04 LTS distribution.
-- To run the shell scripts, 
+- Download and install [Windows Subsystem for Linux (WSL)](https://docs.microsoft.com/en-us/windows/wsl/install-win10) preferably with the Ubuntu 18.04 LTS distribution.
+- To run the shell scripts, start WSL, move into the directory of this repository and run the scripts 
 
 ## Contributors
 
-This assignment was created together with:
-
-- Saru
+These scripts were created together with Saru.
 
 ## Licence
 
-This "OpenGL Raytracer" is published under the MIT licence, which can be found in the [LICENSE](LICENSE) file. For this repository, the terms laid out there shall not apply to any individual that is currently enrolled at a higher education institution as a student. Those individuals shall not interact with any other part of this repository besides this README in any way by, for example cloning it or looking at its source code or have someone else interact with this repository in any way.
+These Unix scripts are published under the MIT licence, which can be found in the [LICENSE](LICENSE) file. For this repository, the terms laid out there shall not apply to any individual that is currently enrolled at a higher education institution as a student. Those individuals shall not interact with any other part of this repository besides this README in any way by, for example cloning it or looking at its source code or have someone else interact with this repository in any way.
 
 ## References
 
